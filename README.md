@@ -131,3 +131,5 @@ Build each project from scratch using only HTML and CSS.
 Focus on understanding **why** the code works instead of simply copying it.
 # html-projects
 # html-projects
+# html-projects
+# html-projects
